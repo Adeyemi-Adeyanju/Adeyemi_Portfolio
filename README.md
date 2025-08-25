@@ -31,7 +31,6 @@
 ![DeFi](https://img.shields.io/badge/DeFi-2EBAC6?style=for-the-badge&logo=ethereum&logoColor=white)
 
 
-
 ---
 
 ## 📊 GitHub Stats  
@@ -50,6 +49,10 @@
 - 📚 Contribute to **open-source projects in AI, Cybersecurity, and Blockchain**.  
 
 
+
+
+My team's slide deck: https://drive.google.com/file/d/1XeG6FxkYX4WV_zTqei-YK6UiCF5tIVjo/view?usp=sharing <br>
+My team's pitch: https://youtu.be/nMnrmVtFcNM
 ---
 
 ## 🌍 Let’s Connect  
